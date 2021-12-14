@@ -1,27 +1,27 @@
 # MeigPython
->Ò»ÖÖÈ«ÐÂµÄÎïÁªÍø¿ª·¢·½Ê½
+>ä¸€ç§å…¨æ–°çš„ç‰©è”ç½‘å¼€å‘æ–¹å¼
 
 
-## ¸ÅÊö Overview
-Ê¹ÓÃMeigPython£¬Äã¿ÉÒÔÊ¹ÓÃPython¿ìËÙÊµÏÖ¸÷ÖÖÎïÁªÍøÓ¦ÓÃ£¬¼òµ¥¡¢¸ßÐ§¡¢¿É¿¿¡£  
+## æ¦‚è¿° Overview
+ä½¿ç”¨MeigPythonï¼Œä½ å¯ä»¥ä½¿ç”¨Pythonå¿«é€Ÿå®žçŽ°å„ç§ç‰©è”ç½‘åº”ç”¨ï¼Œç®€å•ã€é«˜æ•ˆã€å¯é ã€‚  
 
-## ÌØÐÔ Feature
-* ÎÞÐè±àÒë£¬ËæÐ´Ëæ²â¡¡¡¡No need complie anymore
-* ÇáËÉÈëÃÅ£¬Ò×ÓÚÉÏÊÖ¡¡¡¡Easy to use
-* ÍêÕûAPI¡¡¡¡More API
-* ·á¸»ÓÃÀý¡¡¡¡More API Demo
-* ´¹Ö±ÐÐÒµ·½°¸¡¡¡¡IoT industry Solutions
-* ´úÂë¼ÓÃÜ£¬°²È«¿É¿¿¡¡¡¡Code encrypt
+## ç‰¹æ€§ Feature
+* æ— éœ€ç¼–è¯‘ï¼Œéšå†™éšæµ‹ã€€ã€€No need complie anymore
+* è½»æ¾å…¥é—¨ï¼Œæ˜“äºŽä¸Šæ‰‹ã€€ã€€Easy to use
+* å®Œæ•´APIã€€ã€€More API
+* ä¸°å¯Œç”¨ä¾‹ã€€ã€€More API Demo
+* åž‚ç›´è¡Œä¸šæ–¹æ¡ˆã€€ã€€IoT industry Solutions
+* ä»£ç åŠ å¯†ï¼Œå®‰å…¨å¯é ã€€ã€€Code encrypt
 
-## Á¢¼´¿ªÊ¼ Getting started
-* Èç¹ûÄúÊÇpythonÐÂÊÖ,¶ÔpythonÓï·¨ÉÐ²»ÊìÏ¤,¿ÉÒÔÏÈ´Ó<font color=#FF0000>[python»ù´¡]()</font>¿ªÊ¼ÔÄ¶Á
-* ÎªÁË±ãÓÚ¿ª·¢Õß¸ü¿ìÉÏÊÖMeigPython£¬ÎÒÃÇÌá¹©ÁË<font color=#FF0000>[ÎÄµµÖÐÐÄ]()</font>£¬Äú¿ÉÒÔ°´ÕÕÎÄµµÖÐÐÄÑ§Ï°Ë³ÐòÀ´½øÐÐÑ§Ï°ºÍÊµ¼ù
-* ¿ª·¢¹ý³ÌÖÐÓöµ½µÄÎÊÌâ¿ÉÒÔ´Ó<font color=#FF0000>[MGPython FAQ&DEBUG]()</font>ÖÐ»ñÈ¡½â¾ö°ì·¨,Èç¹ûÄú»¹ÓÐÆäËûÎÊÌâ,¿ÉÒÔÔÚÎÒÃÇµÄ<font color=#FF0000>[¹¤µ¥ÏµÍ³]()</font>Ìá½»ÄúµÄÎÊÌâÒÔ»ñÈ¡°ïÖú
+## ç«‹å³å¼€å§‹ Getting started
+* å¦‚æžœæ‚¨æ˜¯pythonæ–°æ‰‹,å¯¹pythonè¯­æ³•å°šä¸ç†Ÿæ‚‰,å¯ä»¥å…ˆä»Ž<font color=#FF0000>[pythonåŸºç¡€]()</font>å¼€å§‹é˜…è¯»
+* ä¸ºäº†ä¾¿äºŽå¼€å‘è€…æ›´å¿«ä¸Šæ‰‹MeigPythonï¼Œæˆ‘ä»¬æä¾›äº†<font color=#FF0000>[æ–‡æ¡£ä¸­å¿ƒ]()</font>ï¼Œæ‚¨å¯ä»¥æŒ‰ç…§æ–‡æ¡£ä¸­å¿ƒå­¦ä¹ é¡ºåºæ¥è¿›è¡Œå­¦ä¹ å’Œå®žè·µ
+* å¼€å‘è¿‡ç¨‹ä¸­é‡åˆ°çš„é—®é¢˜å¯ä»¥ä»Ž<font color=#FF0000>[MGPython FAQ&DEBUG]()</font>ä¸­èŽ·å–è§£å†³åŠžæ³•,å¦‚æžœæ‚¨è¿˜æœ‰å…¶ä»–é—®é¢˜,å¯ä»¥åœ¨æˆ‘ä»¬çš„<font color=#FF0000>[å·¥å•ç³»ç»Ÿ]()</font>æäº¤æ‚¨çš„é—®é¢˜ä»¥èŽ·å–å¸®åŠ©
 
-## ÁË½â¸ü¶à More
-Çë·ÃÎÊÎÒÃÇµÄ <font color=#FF0000>[¹ÙÍø](https://www.meigsmart.com/)</font> 
+## äº†è§£æ›´å¤š More
+è¯·è®¿é—®æˆ‘ä»¬çš„ <font color=#FF0000>[å®˜ç½‘](https://www.meigsmart.com/)</font> 
 Please visit our official website.
 
-¸ü¶àÐÅÏ¢Ò²¿ÉÉ¨Ãè¶þÎ¬Âë£¬¹Ø×¢¹«ÖÚºÅ¡£
+æ›´å¤šä¿¡æ¯ä¹Ÿå¯æ‰«æäºŒç»´ç ï¼Œå…³æ³¨å…¬ä¼—å·ã€‚
 
 ![](public.png)
